@@ -58,11 +58,11 @@ I enjoy building projects that involve programming, electronics, problem-solving
 
 ## Featured Projects
 
-Some projects I'm developing and improving:
+### C++ Pokédex
 
-* Academic projects in C/C++ involving algorithms, data structures and problem-solving
-* Embedded systems projects using Arduino, ESP32, RFID modules and LCD displays
-* Web development projects using HTML, CSS, JavaScript, React and TypeScript
+Academic C++ project developed to manage Pokémon, cities and routes using data structures such as binary search trees, adjacency lists and graph traversal.
+
+Repository: [pokedex-cpp](https://github.com/Pedro-Machado-dev/pokedex-cpp)
 
 More projects will be added soon.
 
