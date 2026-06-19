@@ -1,5 +1,11 @@
 # Hi, I'm Pedro Machado
 
+# Hi, I'm Pedro Machado
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&width=700&lines=Software+Engineering+Student;Electronics+Technician;Web+Development;Embedded+Systems;C%2FC%2B%2B+%7C+JavaScript+%7C+Arduino+%7C+ESP32)](https://git.io/typing-svg)
+
+I'm a Software Engineering student and Electronics Technician from Brazil, focused on Web Development, Embedded Systems and the integration between software and hardware.
+
 I'm a Software Engineering student and Electronics Technician from Brazil, focused on Web Development, Embedded Systems and the integration between software and hardware.
 
 I enjoy building projects that involve programming, electronics, problem-solving and technology. Currently, I'm improving my skills in modern web development while also working with C/C++, Arduino, ESP32 and embedded systems concepts.
