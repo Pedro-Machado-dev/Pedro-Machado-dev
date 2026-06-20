@@ -64,6 +64,12 @@ Academic C++ project developed to manage Pokémon, cities and routes using data 
 
 Repository: [pokedex-cpp](https://github.com/Pedro-Machado-dev/pokedex-cpp)
 
+### C/C++ Elevator system
+
+Academic C/C++ project developed to simulate an elevator, using bottons, switches, motor and a lcd display
+
+Repository: [arduino-elevator-system](https://github.com/Pedro-Machado-dev/arduino-elevator-system)
+
 More projects will be added soon.
 
 ---
