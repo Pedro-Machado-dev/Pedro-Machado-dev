@@ -66,7 +66,7 @@ Repository: [pokedex-cpp](https://github.com/Pedro-Machado-dev/pokedex-cpp)
 
 ### C/C++ Elevator system
 
-Academic C/C++ project developed to simulate an elevator, using bottons, switches, motor and a lcd display
+Academic C/C++ project developed to simulate an elevator, using buttons, switches, motor and a LCD I2C display
 
 Repository: [arduino-elevator-system](https://github.com/Pedro-Machado-dev/arduino-elevator-system)
 
