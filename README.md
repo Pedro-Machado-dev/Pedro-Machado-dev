@@ -70,6 +70,12 @@ Arduino-based elevator control system developed to simulate a multi-floor elevat
 
 Repository: [arduino-elevator-system](https://github.com/Pedro-Machado-dev/arduino-elevator-system)
 
+### Arduino Electronic Safe
+
+Arduino-based electronic safe simulation developed to control access using a numeric password system. The project uses a potentiometer as a numeric selector, push buttons to confirm or reset the input, an LCD display to show the password status, LEDs for feedback and a servo motor to simulate the lock mechanism.
+
+Repository: [arduino-electronic-safe](https://github.com/Pedro-Machado-dev/arduino-electronic-safe)
+
 More projects will be added soon.
 
 ---
