@@ -76,6 +76,13 @@ Arduino-based electronic safe simulation developed to control access using a num
 
 Repository: [arduino-electronic-safe](https://github.com/Pedro-Machado-dev/arduino-electronic-safe)
 
+### ESP32 RFID Machine Access Control
+
+ESP32-based RFID access control system designed to manage the power supply of a machine through a physical control box attached to the equipment. The system uses RFID cards to authorize qualified professionals, controls a relay to enable or block the machine, stores authorized cards in EEPROM and displays machine status, date and time on an LCD display.
+
+Repository: [esp32-rfid-access-control](https://github.com/Pedro-Machado-dev/esp32-rfid-access-control)
+
+
 More projects will be added soon.
 
 ---
