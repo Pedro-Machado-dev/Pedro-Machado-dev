@@ -91,7 +91,7 @@ More projects will be added soon.
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Machado-dev\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Machado-dev\&layout=compact\&theme=tokyonigh).
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Machado-dev\&layout=compact\&theme=tokyonight).
 
 ---
 
