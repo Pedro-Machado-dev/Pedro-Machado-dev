@@ -58,6 +58,8 @@ I enjoy building projects that involve programming, electronics, problem-solving
 
 ## Featured Projects
 
+Portfolio: [pedro-machado-portfolio.vercel.app](https://pedro-machado-portfolio.vercel.app/)
+
 ### C++ Pokédex
 
 Academic C++ project developed to manage Pokémon, cities and routes using data structures such as binary search trees, adjacency lists and graph traversal.
