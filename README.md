@@ -58,7 +58,13 @@ I enjoy building projects that involve programming, electronics, problem-solving
 
 ## Featured Projects
 
-Portfolio: [pedro-machado-portfolio.vercel.app](https://pedro-machado-portfolio.vercel.app/)
+### Personal Portfolio
+
+Professional portfolio developed to present my background, skills, academic projects and contact information. Built with React, TypeScript and Vite, deployed on Vercel.
+
+Website: [pedro-machado-portfolio.vercel.app](https://pedro-machado-portfolio.vercel.app/)
+
+Repository: [portfolio](https://github.com/Pedro-Machado-dev/portfolio)
 
 ### C++ Pokédex
 
