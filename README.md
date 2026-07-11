@@ -103,5 +103,6 @@ More projects will be added soon.
   <img height="165" src="https://github-readme-stats-rouge-beta-91.vercel.app/api/top-langs/?username=Pedro-Machado-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </div>
 ---
+
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-machado-dev/)
