@@ -95,8 +95,6 @@ More projects will be added soon.
 
 ---
 
----
-
 ## GitHub Stats
 <div align="left">
   <img height="165" src="https://github-readme-stats-rouge-beta-91.vercel.app/api?username=Pedro-Machado-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
