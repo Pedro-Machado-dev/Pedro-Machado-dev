@@ -66,8 +66,6 @@ Professional website built for a Japanese restaurant in Pouso Alegre (MG). A com
 
 Website: [restaurantekatana.vercel.app](https://restaurantekatana.vercel.app)
 
-Repository: [restaurante-katana](https://github.com/Pedro-Machado-dev/restaurante-katana)
-
 ### Personal Portfolio
 
 Portfolio presenting my background, skills, academic and hardware projects, and contact. Features a WebGL animated background, bilingual PT/EN interface and a black + amber visual identity. Built with React, TypeScript, Vite and pure CSS, deployed on Vercel.
@@ -118,4 +116,4 @@ More projects coming soon.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pedromachado.dev-F0AA3C?style=flat&logo=vercel&logoColor=black)](https://pedromachado.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-machado-dev/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pedromara2709@gmail.com)
