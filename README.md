@@ -118,12 +118,6 @@ More projects coming soon.
 
 ---
 
-## Activity Graph
-
-[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pedro-Machado-dev&bg_color=0a0a0b&color=f0aa3c&line=f0aa3c&point=ffffff&area_color=f0aa3c&area=true&hide_border=true)](https://github.com/Pedro-Machado-dev)
-
----
-
 ## Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pedromachado.dev-F0AA3C?style=flat&logo=vercel&logoColor=black)](https://pedromachado.dev)
