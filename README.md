@@ -14,7 +14,7 @@ Software Engineering student and Electronics Technician from Brazil, working whe
 * Software Engineering student at **Inatel** · Electronics Technician (**SENAI**)
 * **Freelance web developer** — I run the full project cycle: requirements, design, development, SEO and deployment
 * Scholarship holder at **Start_Inatel**, teaching programming and electronics workshops
-* Fluent in English · Intermediate Spanish
+* Advanced in English · Intermediate Spanish
 * Currently expanding into **back-end**: Java, Spring Boot and MySQL
 * Open to **software engineering internship** opportunities
 
